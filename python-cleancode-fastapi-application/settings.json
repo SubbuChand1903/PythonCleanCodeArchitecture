@@ -1,7 +1,0 @@
-{
-    "python.pythonPath": "C:/Users/v-subc/.virtualenvs/python-sample-fastapi-application-iOaDjSRM", 
-    "python.analysis.extraPaths": [
-        "./src"
-    ],
-    "python.analysis.logLevel": "Trace"
-}
